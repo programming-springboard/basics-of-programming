@@ -22,16 +22,18 @@ This repository contains the Basics of Programming course I have made for my fri
 
 Ниже приведен список тем, рассматриваемых в рамках этого курса, с кликабельными ссылками:
 
-1. [Введение в программирование](#введение-в-программирование)
-2. [Создание первой программы](#создание-первой-программы)
-3. [Переменные](#переменные)
+1. <a href="#introduction">Введение в программирование</a>
+2. <a href="#first-program">Создание первой программы</a>
+3. <a href="#variables">Переменные</a>
 
-# Введение в программирование
+# <a id="introduction">Введение в программирование</a>
 
-TBD
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Создание первой программы
+# <a id="first-program">Создание первой программы</a>
 
-TBD
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Переменные
+# <a>Переменные</a>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
