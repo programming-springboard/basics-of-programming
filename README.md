@@ -12,7 +12,7 @@ This repository contains the Basics of Programming course I have made for my fri
 - выучите основные конструкции языка С, присущие большинству языков программирования (переменные, типы данных, логические операции, циклы, функции);
 - выучите на примерах структурный подход к программированию.
 
-## Прежде чем мы начнем ...
+## Прежде, чем мы начнем ...
 
 Сам я пользуюсь (и всем советую) операционной системой Linux (конкретнее, её дистрибутивом Ubuntu). Все примеры консольных команд, которые будут приводится в рамках этого курса, были выполнены в терминале Ubuntu 20.04.
 
@@ -22,18 +22,18 @@ This repository contains the Basics of Programming course I have made for my fri
 
 Ниже приведен список тем, рассматриваемых в рамках этого курса, с кликабельными ссылками:
 
-1. <a href="#introduction">Введение в программирование</a>
-2. <a href="#first-program">Создание первой программы</a>
-3. <a href="#variables">Переменные</a>
+1. [Введение в программирование](#введение-в-программирование)
+2. [Создание первой программы](#создание-первой-программы)
+3. [Переменные](#переменные)
 
-# <a id="introduction">Введение в программирование</a>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-# <a id="first-program">Создание первой программы</a>
+# Введение в программирование
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# <a id="variables">Переменные</a>
+# Создание первой программы
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Переменные
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
